@@ -16,3 +16,5 @@ https://underscorejs.org/  Underscore.js
 
 https://www.lodashjs.com/docs/4.17.5.html loadsh
 
+https://www.cnblogs.com/wuxun1997/p/11583641.html  linux非root用户安装nginx
+
